@@ -14,7 +14,7 @@ Il contient une présentation PDF expliquant :
 ## Auteurs
 - Nangmo Feulfack Annick Duplesse (21S2530)  
 - Njiagupmun Njankouo Awa Rahma (22U2114)  
-- Tangomo Tower (0000000)  
+-  Nguefack Tangomo Chris Arthur (0000000)  
 
 Superviseur : Pr. Paulin Melatagia
 
